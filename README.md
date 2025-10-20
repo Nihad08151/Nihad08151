@@ -11,7 +11,7 @@
 - Studying at University of Economics
 
 #### Programming Language
-![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_%2528programming_language%2529&psig=AOvVaw0pDZga6pz_YQ-FBpS8s0RQ&ust=1760992728784000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDGmqSPsZADFQAAAAAdAAAAABAE)
+![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgY4Wfy9hXIn-GOD3xvwiisF8GM97MiktoA&s)
 
 
 ### Let's connect
